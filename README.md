@@ -1,5 +1,10 @@
 # CanIPrayRightNow
 
+## Todo
+
+1. some things to do
+2. add second thing
+
 ## Available Scripts
 
 In the project directory, you can run:
